@@ -1,0 +1,60 @@
+{
+    "name": "DataSift",
+    "description": "DataSift is the leader in Human Data Intelligence. The only independent provider of social data, blog data and news data.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/177-datasift-developer.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "content",
+        "data",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datasift\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/dev.datasift.com\/blog"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.datasift.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.datasift.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/datasift"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/datasift"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/datasift"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DataSift"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DataSiftDev"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dev.datasift.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/dev.datasift.com"
+        }
+    ]
+}
